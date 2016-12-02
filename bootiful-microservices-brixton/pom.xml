@@ -13,5 +13,6 @@
         <module>reservation-services</module>
         <module>config-server</module>
         <module>eureka-service</module>
+        <module>hystrixdashboard</module>
     </modules>
 </project>

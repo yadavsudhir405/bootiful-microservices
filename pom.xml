@@ -23,10 +23,12 @@
                 <module>bootiful-microservices-brixton/eureka-service</module>
                 <module>bootiful-microservices-brixton/reservation-client</module>
                 <module>bootiful-microservices-brixton/reservation-services</module>
+                <module>bootiful-microservices-brixton/hystrixdashboard</module>
                 <module>bootiful-microservices-camden/config-server</module>
                 <module>bootiful-microservices-camden/eureka-service</module>
                 <module>bootiful-microservices-camden/reservation-services</module>
                 <module>bootiful-microservices-camden/reservation-client</module>
+                <module>bootiful-microservices-camden/hystrixdashboard</module>
             </modules>
         </profile>
         <profile>
@@ -39,6 +41,7 @@
                 <module>bootiful-microservices-brixton/eureka-service</module>
                 <module>bootiful-microservices-brixton/reservation-client</module>
                 <module>bootiful-microservices-brixton/reservation-services</module>
+                <module>bootiful-microservices-brixton/hystrixdashboard</module>
             </modules>
         </profile>
         <profile>
@@ -52,6 +55,7 @@
                 <module>bootiful-microservices-camden/reservation-services</module>
                 <module>bootiful-microservices-camden/reservation-client</module>
                 <module>bootiful-microservices-camden/reservation-client</module>
+                <module>bootiful-microservices-camden/hystrixdashboard</module>
             </modules>
         </profile>
     </profiles>

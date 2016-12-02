@@ -6,6 +6,7 @@ spring:
     config:
       server:
         git:
-          uri: ${HOME}/Desktop/config
+          uri:https://github.com/yadavsudhir405/config.git
+          #basedir:${HOME}/Desktop/config ---->To target to local git repository
 server:
   port: 8888
